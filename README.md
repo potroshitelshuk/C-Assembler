@@ -1,2 +1,3 @@
 # C&Assembler
- Homework tasks using C and Assembler
+
+Finished homework tasks using C and Assembler
